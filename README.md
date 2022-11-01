@@ -1,4 +1,4 @@
-# JAVASCRIPT 
+## JAVASCRIPT 
    * JavaScript is a dynamic programming language that's used for web development in web applications,game development etc.
     It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS.
    - JavaScript is the Programming Language for the Web.
