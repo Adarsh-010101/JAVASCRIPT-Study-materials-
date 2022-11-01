@@ -14,6 +14,16 @@
    -Control Statements
    -Objects as first-class citizens
    -Functions as First-class citizens(supports functional programming)
-
+## Let & const 
+## Arrow functions 
+## Exports and Imports 
+## Classes 
+## Properties 
+## Methods 
+## The Spread & Rest Operator 
+## Destructuring 
+## Reference & Primitive
+## Wrap Up 
+## Array Functions in Javascirpt :
    
    
