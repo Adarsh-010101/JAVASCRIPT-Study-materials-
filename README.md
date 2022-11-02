@@ -16,11 +16,11 @@
     EXAMPLE ->   
    
     let myclass = 'class'; 
-   console.log(myclass);                                                                                               
+   console.log(myclass);  // class                                                                                              
 
 
     myclass = 'A';         
-   console.log(myclass);                                                                                                 
+   console.log(myclass);  // A                                                                                              
 
     myclass = 'B';          
    console.log(myclass);                                                                                                 
