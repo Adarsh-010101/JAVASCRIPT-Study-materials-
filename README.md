@@ -13,7 +13,7 @@
 ## Let & const 
    ### LET ( Using 'LET' , while declaring a variable and assigning it with some values that can be updated later .
    
-    EXAMPLE ->   
+   EXAMPLE ->   
    
     let myclass = 'class'; 
    console.log(myclass);  // Output - class                                                                                              
@@ -35,9 +35,17 @@
    console.log(myclass);   // Output -   E , in this case - Value of variable 'myclass' gets updated every time we declare a new value to it .
 
    ### CONST ( Using 'CONST' , at the time of variable declaration , the value assigned to the variable remains constant and  can not be changed )
+   Example ->
    
+    const status = 'Qualified';
+   console.log(status);
+
+
+    status = 'Disqualified';
+   console.log(status);    
    
-    
+   // Output - ' Qualified ' & will show type error as for the assignment to constant variable (in this case - Value assigned once to the variable 'status'  will    always be the same , as it says the  "const var" will be constant always.)
+   
 ## Arrow functions 
 ## Exports and Imports 
 ## Classes 
