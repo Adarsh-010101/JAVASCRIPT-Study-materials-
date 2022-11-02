@@ -7,14 +7,13 @@
    
 ##  Javascript Key Features <>
    -Scripting Language (JavaScript is a lightweight scripting language made for client-side execution on the browser)
-   -Interpreter Based
-   -Event Handling
-   -Light Weight
-   -Case Sensitive
-   -Control Statements
-   -Objects as first-class citizens
+   -Interpreter Based  -Light Weight    -Case Sensitive     -Control Statements    -Objects as first-class citizens     -Event Handling
    -Functions as First-class citizens(supports functional programming)
+   
 ## Let & const 
+    ### LET ( Using 'LET' , while declaring a variable and assigning it with some values that can be updated later .
+    ### CONST ( Using 'CONST' , at the time of variable declaration , the value assigned to the variable remains constant and  can not be changed )
+    
 ## Arrow functions 
 ## Exports and Imports 
 ## Classes 
