@@ -16,24 +16,23 @@
     EXAMPLE ->   
    
     let myclass = 'class'; 
-   console.log(myclass);  // class                                                                                              
+   console.log(myclass);  // Output - class                                                                                              
 
 
     myclass = 'A';         
-   console.log(myclass);  // A                                                                                              
+   console.log(myclass);  // Output -   A                                                                                           
 
-    myclass = 'B';          
-   console.log(myclass);                                                                                                 
+    myclass = 'B';         
+   console.log(myclass);  // Output -   B                                                                               
 
     myclass = 'C';        
-   console.log(myclass);                                                                                                 
+   console.log(myclass);  // Output -   C                                                                              
 
     myclass = 'D';        
-   console.log(myclass);                                                                                                 
+   console.log(myclass);   // Output -   D                                                                           
 
     myclass = 'E';        
-   console.log(myclass);                                                                                                 
-
+   console.log(myclass);   // Output -   E , in this case - Value of variable 'myclass' gets updated every time we declare a new value to it .
 
    ### CONST ( Using 'CONST' , at the time of variable declaration , the value assigned to the variable remains constant and  can not be changed )
    
