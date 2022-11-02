@@ -19,19 +19,19 @@
    console.log(myclass);                                                                                               class
 
 
-   myclass = 'A';          // Upadated value of var myclass again with 'A' 
+   myclass = 'A';         
    console.log(myclass);                                                                                                 A
 
-   myclass = 'B';          // Upadated value of var myclass again with 'B' 
+   myclass = 'B';          
    console.log(myclass);                                                                                                 B
 
-   myclass = 'C';          // Upadated value of var myclass again with 'C' 
+   myclass = 'C';        
    console.log(myclass);                                                                                                 C
 
-   myclass = 'D';          // Upadated value of var myclass again with 'D' 
+   myclass = 'D';        
    console.log(myclass);                                                                                                 D
 
-   myclass = 'E';          // Upadated value of var myclass again with 'E' 
+   myclass = 'E';        
    console.log(myclass);                                                                                                 E
 
 
