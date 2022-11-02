@@ -15,24 +15,24 @@
    
    EXAMPLE ->   
    
-   let myclass = 'class'; // myclass decalared using 'let' and assigned = 'class'                               - CONSOLE-OUTPUT -
-   console.log(myclass);                                                                                               class
+   let myclass = 'class'; // myclass decalared using 'let' and assigned = 'class'
+   console.log(myclass);                                                                                               
 
 
    myclass = 'A';         
-   console.log(myclass);                                                                                                 A
+   console.log(myclass);                                                                                                 
 
    myclass = 'B';          
-   console.log(myclass);                                                                                                 B
+   console.log(myclass);                                                                                                 
 
    myclass = 'C';        
-   console.log(myclass);                                                                                                 C
+   console.log(myclass);                                                                                                 
 
    myclass = 'D';        
-   console.log(myclass);                                                                                                 D
+   console.log(myclass);                                                                                                 
 
    myclass = 'E';        
-   console.log(myclass);                                                                                                 E
+   console.log(myclass);                                                                                                 
 
 
    ### CONST ( Using 'CONST' , at the time of variable declaration , the value assigned to the variable remains constant and  can not be changed )
