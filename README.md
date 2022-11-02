@@ -16,23 +16,23 @@
    EXAMPLE ->   
    
     let myclass = 'class'; 
-   console.log(myclass);  // Output - class                                                                                              
+    console.log(myclass);  // Output - class                                                                                              
 
 
     myclass = 'A';         
-   console.log(myclass);  // Output -   A                                                                                           
+    console.log(myclass);  // Output -   A                                                                                           
 
     myclass = 'B';         
-   console.log(myclass);  // Output -   B                                                                               
+    console.log(myclass);  // Output -   B                                                                               
 
     myclass = 'C';        
-   console.log(myclass);  // Output -   C                                                                              
+    console.log(myclass);  // Output -   C                                                                              
 
     myclass = 'D';        
-   console.log(myclass);   // Output -   D                                                                           
+    console.log(myclass);   // Output -   D                                                                           
 
     myclass = 'E';        
-   console.log(myclass);   // Output -   E , in this case - Value of variable 'myclass' gets updated every time we declare a new value to it .
+    console.log(myclass);   // Output -   E , in this case - Value of variable 'myclass' gets updated every time we declare a new value to it .
 
    ### CONST ( Using 'CONST' , at the time of variable declaration , the value assigned to the variable remains constant and  can not be changed )
    Example ->
@@ -44,7 +44,7 @@
     status = 'Disqualified';
     console.log(status);    
    
-   // Output - ' Qualified ' & will show type error as for the assignment to constant variable (in this case - Value assigned once to the variable 'status'  will    always be the same , as it says the  "const var" will be constant always.)
+    // Output - ' Qualified ' & will show type error as for the assignment to constant variable (in this case - Value assigned once to the variable 'status'  will    always be the same , as it says the  "const var" will be constant always.)
    
 ## Arrow functions 
 ## Exports and Imports 
