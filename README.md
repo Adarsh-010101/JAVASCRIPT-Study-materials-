@@ -13,25 +13,25 @@
 ## Let & const 
    ### LET ( Using 'LET' , while declaring a variable and assigning it with some values that can be updated later .
    
-   EXAMPLE ->   
+    EXAMPLE ->   
    
-   let myclass = 'class'; // myclass decalared using 'let' and assigned = 'class'
+    let myclass = 'class'; 
    console.log(myclass);                                                                                               
 
 
-   myclass = 'A';         
+    myclass = 'A';         
    console.log(myclass);                                                                                                 
 
-   myclass = 'B';          
+    myclass = 'B';          
    console.log(myclass);                                                                                                 
 
-   myclass = 'C';        
+    myclass = 'C';        
    console.log(myclass);                                                                                                 
 
-   myclass = 'D';        
+    myclass = 'D';        
    console.log(myclass);                                                                                                 
 
-   myclass = 'E';        
+    myclass = 'E';        
    console.log(myclass);                                                                                                 
 
 
