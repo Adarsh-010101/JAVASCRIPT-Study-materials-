@@ -38,11 +38,11 @@
    Example ->
    
     const status = 'Qualified';
-   console.log(status);
+    console.log(status);
 
 
     status = 'Disqualified';
-   console.log(status);    
+    console.log(status);    
    
    // Output - ' Qualified ' & will show type error as for the assignment to constant variable (in this case - Value assigned once to the variable 'status'  will    always be the same , as it says the  "const var" will be constant always.)
    
