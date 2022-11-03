@@ -46,15 +46,25 @@
    
     // Output - ' Qualified ' & will show type error as for the assignment to constant variable (in this case - Value assigned once to the variable 'status'  will    always be the same , as it says the  "const var" will be constant always.)
    
-## Arrow functions 
+## Arrow functions -
+  
 ## Exports and Imports 
+
 ## Classes 
+
 ## Properties 
+
 ## Methods 
+
 ## The Spread & Rest Operator 
+
 ## Destructuring 
+
 ## Reference & Primitive
+
 ## Wrap Up 
+
 ## Array Functions in Javascirpt :
+
    
    
