@@ -46,7 +46,12 @@
    
     // Output - ' Qualified ' & will show type error as for the assignment to constant variable (in this case - Value assigned once to the variable 'status'  will    always be the same , as it says the  "const var" will be constant always.)
    
-## Arrow functions -
+## Arrow functions :
+  -Arrow functions were introduced in ES6.
+
+  Arrow functions allow us to write shorter function syntax:
+
+       let myFunction = (a, b) => a * b;
   
 ## Exports and Imports 
 
