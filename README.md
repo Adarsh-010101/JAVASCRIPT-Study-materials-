@@ -58,16 +58,26 @@
     document.getElementById("demo").innerHTML = myFunction(4, 5); 
     // it will return 20 
        
- ### BEFORE Arrow 
+ ### WITHOOUT Arrow 
      
     hello = function() {
     return "Hello World!"; }
+  Example :
+     
+      let hello ="";
+
+      hello = function() {
+      return "Hello World!";
+    } 
+
+    document.getElementById("demo").innerHTML = hello(); // it will return Hello World 
  
  ### WITH   Arrow 
  
-    hello = () => {
-    return "Hello World!";}
-  
+    const multiply = (number) => {
+    return number * 2; }
+    console.log(multiply(2)); // will return num * 2 , i.e; 2*2 = 4 
+    
 ## Exports and Imports 
 
 ## Classes 
