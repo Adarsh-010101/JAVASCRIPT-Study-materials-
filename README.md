@@ -53,7 +53,7 @@
 
        let myFunction = (a, b) => a * b;
        
-    Example : 
+  Example : 
     let myFunction = (a, b) => a * b;
     document.getElementById("demo").innerHTML = myFunction(4, 5); // it will return 20 
        
