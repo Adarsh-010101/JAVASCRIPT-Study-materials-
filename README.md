@@ -53,6 +53,10 @@
 
        let myFunction = (a, b) => a * b;
        
+    Example : 
+    let myFunction = (a, b) => a * b;
+    document.getElementById("demo").innerHTML = myFunction(4, 5); // it will return 20 
+       
  ### BEFORE Arrow 
      
     hello = function() {
