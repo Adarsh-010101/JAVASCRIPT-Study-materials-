@@ -49,9 +49,18 @@
 ## Arrow functions :
   -Arrow functions were introduced in ES6.
 
-  Arrow functions allow us to write shorter function syntax:
+  -Arrow functions allow us to write shorter function syntax:
 
        let myFunction = (a, b) => a * b;
+       
+ ###BEFORE Arrow 
+      hello = function() {
+  return "Hello World!";
+}
+ 
+ ###WITH   Arrow 
+ 
+ 
   
 ## Exports and Imports 
 
