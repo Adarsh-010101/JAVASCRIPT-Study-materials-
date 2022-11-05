@@ -17,7 +17,7 @@
    
     let myclass = 'class'; 
     console.log(myclass);  // Output - class                                                                                              
-
+    ....
 
     myclass = 'A';         
     console.log(myclass);  // Output -   A                                                                                           
