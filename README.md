@@ -79,9 +79,9 @@
     console.log(multiply(2)); // will return num * 2 , i.e; 2*2 = 4 
     
 ## Exports and Imports 
-      Exports and Imports Statements are also reffered to as so called  'modules' 
-      Using these 'Import &export modules, we can import content from anothern file & 
-      It helps javascript files to know about their dependencies
+  - Exports and Imports Statements are also reffered to as so called  'modules' 
+  - Using these 'Import &export modules, we can import content from anothern file & 
+  - It helps javascript files to know about their dependencies
       
     ### DEFAULT EXPORT 
 
@@ -103,7 +103,7 @@
 
         import prs from './person.js' //
 
-   ### note*  ( In the above file , it shows us the example of default export &  In default export you just have to choose the name )
+  // note*  ( In the above file , it shows us the example of default export &  In default export you just have to choose the name )
 
                                                    
 
