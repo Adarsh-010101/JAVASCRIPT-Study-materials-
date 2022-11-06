@@ -107,9 +107,9 @@
 
                                                    
 
-     ### NAMED EXPORT 
+   ### NAMED EXPORT 
 
-    2) Supp0se we have another  file named - utility.js
+   2) Supp0se we have another  file named - utility.js
 
     export const clean = () = > { ... }  
 
