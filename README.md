@@ -85,7 +85,7 @@
       
    ### DEFAULT EXPORT 
 
-   - Supp0se we have a file named - person.js
+    - Supp0se we have a file named - person.js
 
      where ,
 
