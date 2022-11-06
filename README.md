@@ -82,10 +82,56 @@
       Exports and Imports Statements are also reffered to as so called  'modules' 
       Using these 'Import &export modules, we can import content from anothern file & 
       It helps javascript files to know about their dependencies
-   
-   
       
+    ### DEFAULT EXPORT 
 
+    Supp0se we have a file named - person.js
+
+    where ,
+
+       const person = {
+
+          name: 'Max'                                                    
+
+     }      
+
+      export  default person   
+
+        ||           app.js              ||
+
+        import person from './person.js'
+
+        import prs from './person.js' //
+
+   ### note*  ( In the above file , it shows us the example of default export &  In default export you just have to choose the name )
+
+                                                   
+
+   ### NAMED EXPORT 
+
+    2) Supp0se we have another  file named - utility.js
+
+    export const clean = () = > { ... }  
+
+    export const basedata = 10 ; // name is defined by export 
+
+     ||               app.js              ||
+
+    import  { basedata } from './utility.js' 
+
+    import  {  clean }   from './utility.js' 
+
+    this can also be written as -  import  { basedata , clean } from './utility.js' 
+
+        import  { smth} from './utility.js' 
+
+        import  { smth as Smth }  from './utility.js' 
+ 
+        import  * as bundled from './utility.js' // for bundled export of items.
+
+ 
+     
+    
 ## Classes 
 
 ## Properties 
