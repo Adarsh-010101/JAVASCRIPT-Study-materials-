@@ -79,6 +79,12 @@
     console.log(multiply(2)); // will return num * 2 , i.e; 2*2 = 4 
     
 ## Exports and Imports 
+      Exports and Imports Statements are also reffered to as so called  'modules' 
+      Using these 'Import &export modules, we can import content from anothern file & 
+      It helps javascript files to know about their dependencies
+   
+   
+      
 
 ## Classes 
 
