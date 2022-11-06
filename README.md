@@ -83,7 +83,7 @@
   - Using these 'Import &export modules, we can import content from anothern file & 
   - It helps javascript files to know about their dependencies
       
-    ### DEFAULT EXPORT 
+        ### DEFAULT EXPORT 
 
     Supp0se we have a file named - person.js
 
@@ -107,7 +107,7 @@
 
                                                    
 
-   ### NAMED EXPORT 
+     ### NAMED EXPORT 
 
     2) Supp0se we have another  file named - utility.js
 
