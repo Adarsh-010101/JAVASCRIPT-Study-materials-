@@ -149,10 +149,15 @@
             
           
    Methods :  fn's attached to classes 
-            - 
+            - Example 
+              constructor() {
+              
+              ... .. ....
+              } 
+              
         
    Properties : var's attached to classes 
-            -
+            
 
 ## The Spread & Rest Operator 
 
