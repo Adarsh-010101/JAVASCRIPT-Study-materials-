@@ -133,16 +133,32 @@
      
     
 ## Classes 
-
-## Properties 
-
-## Methods 
+          - A blueprint for  js objects.
+          - contains Methods & Properties 
+          -  uses a constructor() to add properties.
+          - Suppports inheritence 
+          
+   Example :
+          
+          class React {    
+          
+             name = 'JS Library' // Property 
+             call = () = > {..}  // Method 
+             
+            } 
+            
+          
+        ### Methods :  fn's attached to classes 
+            - 
+        
+        ### Properties : var's attached to classes 
+            -
 
 ## The Spread & Rest Operator 
 
 ## Destructuring 
 
-## Reference & Primitive
+## Reference & Primitive 
 
 ## Wrap Up 
 
