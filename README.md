@@ -148,10 +148,10 @@
             } 
             
           
-        ### Methods :  fn's attached to classes 
+   Methods :  fn's attached to classes 
             - 
         
-        ### Properties : var's attached to classes 
+   Properties : var's attached to classes 
             -
 
 ## The Spread & Rest Operator 
