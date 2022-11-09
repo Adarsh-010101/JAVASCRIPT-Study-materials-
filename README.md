@@ -162,9 +162,11 @@
 ## OPERATORS 
    - Spread : 
               -The JavaScript spread operator ( ... ) allows us to quickly copy all or part of an existing array or object into another array or object.  
-              -The Spread operator expands elements of an iterable,
+              -The Spread operator expands elements of an iterable .
    
-   - Rest : 
+   - Rest :    
+              -The Rest Operator compresses elements of an iterable .
+              -The rest operator ( ... ) instructs the computer to add whatever otherInfo (arguments) supplied by the user into an array
 
 ## Destructuring 
 
