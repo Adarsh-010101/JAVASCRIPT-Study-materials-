@@ -167,7 +167,10 @@
    - Rest :    
               -The Rest Operator compresses elements of an iterable .
               -The rest operator ( ... ) instructs the computer to add whatever otherInfo (arguments) supplied by the user into an array
-
+              -The rest operator (…) allows us to call a function with any number of arguments and then access those excess arguments as an array.
+              -The rest operator also allows us in destructuring array or objects .
+              
+              
 ## Destructuring 
 
 ## Reference & Primitive 
