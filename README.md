@@ -178,15 +178,15 @@
    -It makes the code more clear. When we access the props using this keyword, we have to use this/ this.props throughout the program, 
        but by the use of restructuring, we can discard this/ this.props by assigning them in new variables.
 
-    ###Why do we use destructuring ?
-             #### It makes developer’s life easy, by assigning their own variables.
-Nested data is more complex, it takes time to access, but by the use of destructuring, we can access faster of nested data.
-It improves the sustainability, readability of code.
-It helps to cut the amount of code used in an application.
-It trims the number of steps taken to access data properties.
-It provides components with the exact data properties.
-It saves time from iterate over an array of objects multiple times.
-In ReactJS We use multiple times ternary operators inside the render function, without destructuring it looks complex and hard to access them, but by the use of destructuring, we can improve the readability of ternary operators.
+## Why do we use destructuring ?
+    - It makes developer’s life easy, by assigning their own variables. 
+    - Nested data is more complex, it takes time to access, but by the use of destructuring, we can access faster of nested data.
+    - It improves the sustainability, readability of code.
+    - It helps to cut the amount of code used in an application.
+    - It trims the number of steps taken to access data properties.
+    - It provides components with the exact data properties.
+    - It saves time from iterate over an array of objects multiple times.
+    - In ReactJS We use multiple times ternary operators inside the render function, without destructuring it looks complex and hard to access them, but by       - the use of destructuring, we can improve the readability of ternary operators.
 
            
 ## Reference & Primitive 
