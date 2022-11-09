@@ -149,10 +149,10 @@
             
           
    Methods :  fn's attached to classes 
-            - Example 
+     - Example : 
+     
               constructor() {
-              
-              ... .. ....
+                ... .. ....
               } 
               
         
