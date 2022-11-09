@@ -159,7 +159,9 @@
    Properties : var's attached to classes 
             
 
-## The Spread & Rest Operator 
+## OPERATORS 
+   - Spread 
+   - Rest
 
 ## Destructuring 
 
