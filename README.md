@@ -172,6 +172,10 @@
               
               
 ## Destructuring 
+   - Destructuring is a simple property that is used to make code much clear and readable, mainly when we pass props in React.
+   - It is a characteristic of JavaScript.
+   - It is used to take out sections of data from an array or objects.
+
 
 ## Reference & Primitive 
 
