@@ -175,6 +175,8 @@
    - Destructuring is a simple property that is used to make code much clear and readable, mainly when we pass props in React.
    - It is a characteristic of JavaScript.
    - It is used to take out sections of data from an array or objects.
+   -It makes the code more clear. When we access the props using this keyword, we have to use this/ this.props throughout the program, 
+       but by the use of restructuring, we can discard this/ this.props by assigning them in new variables.
 
 
 ## Reference & Primitive 
