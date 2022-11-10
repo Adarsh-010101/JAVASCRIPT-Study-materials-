@@ -190,8 +190,12 @@
 
            
 ## Reference & Primitive 
-    - Objects & Arrays are reference types 
-
+        - Objects & Arrays are reference types , if we reassign these objects or arrays , we are copying the pointer not the value .
+        - If you want to do this in a real copy way, we need to create new object
+        
+    =-Primitive : 
+       - Primitive values are atomic pieces of data while reference values are objects that might consist of multiple values.
+       = 
 ## Wrap Up 
 
 ## Array Functions in Javascirpt :
