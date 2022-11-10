@@ -193,9 +193,22 @@
         - Objects & Arrays are reference types , if we reassign these objects or arrays , we are copying the pointer not the value .
         - If you want to do this in a real copy way, we need to create new object
         
-    =-Primitive : 
+   Primitive : 
        - Primitive values are atomic pieces of data while reference values are objects that might consist of multiple values.
-       = 
+       - Primitive values (null, undefined, boolean, number, string, symbol, and BigInt)
+       - a primitive value cannot have properties. This means that you cannot add a property to a primitive value.
+       
+   JavaScript allows you to add a property to a primitive value.
+    
+     let name = 'John';
+     name.alias = 'Knight';
+     console.log(name.alias); // undefined
+
+     Output:  undefined    
+       
+   - References :
+    
+       - 
 ## Wrap Up 
 
 ## Array Functions in Javascirpt :
