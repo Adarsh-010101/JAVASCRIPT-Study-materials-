@@ -212,14 +212,13 @@
 
     Syntax:
              Array.of(element0, element1, ....)
-  
-      <script>  
-         console.log(Array.of(0, 0, 0));
-         console.log(Array.of(11, 21, 33));
-         console.log(Array.of("Ram","Geeta"));
-         console.log(Array.of('geeksforgeeks'));
-         console.log(Array.of(2,3,4,'Sheeta'));
-     </script>
+    code :     <script>  
+                 console.log(Array.of(0, 0, 0));
+                 console.log(Array.of(11, 21, 33));
+                 console.log(Array.of("Ram","Geeta"));
+                 console.log(Array.of('geeksforgeeks'));
+                 console.log(Array.of(2,3,4,'Sheeta'));
+               </script>
     Output :  Array [0, 0, 0]
              Array [11, 21, 33]
              Array ["Ram", "Geeta"]
