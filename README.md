@@ -205,7 +205,7 @@
       - Copying a reference from one variable to another creates a reference so that two variables refer to the same object. This means that changing the             object via one variable reflects in another variable.
       - Objects, arrays, and functions are reference types.
       
-## 
+## Array Functions in Javascript
       - 
 
    
