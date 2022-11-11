@@ -210,10 +210,9 @@
     
    - The array.of() function is an inbuilt function in JavaScript that creates a new array instance with variables present as the argument of the function. 
 
-Syntax:
- Array.of(element0, element1, ....)
- 
-Example : 
+    Syntax:
+             Array.of(element0, element1, ....)
+  
       <script>  
          console.log(Array.of(0, 0, 0));
          console.log(Array.of(11, 21, 33));
@@ -221,7 +220,7 @@ Example :
          console.log(Array.of('geeksforgeeks'));
          console.log(Array.of(2,3,4,'Sheeta'));
      </script>
-  Output :   Array [0, 0, 0]
+    Output :  Array [0, 0, 0]
              Array [11, 21, 33]
              Array ["Ram", "Geeta"]
              Array ["geeksforgeeks"]
