@@ -230,11 +230,21 @@
                       
           find()  => The find() method returns the first element in the provided array that satisfies the provided testing function. 
                       - If no values satisfy the testing function, undefined is returned.
-     findIndex()  => 
-                      - 
-        filter()  => 
+                      
+     findIndex()  => The findIndex() method executes a function for each array element.
+                     - The findIndex() method returns the index (position) of the first element that passes a test.
+                     - The findIndex() method returns -1 if no match is found.
+                     - The findIndex() method does not execute the function for empty array elements.
+                     - The findIndex() method does not change the original array.
+            
+        filter()  => The filter() method creates a new array filled with elements that pass a test provided by a function.
+                      - The filter() method does not execute the function for empty elements.
+                      - The filter() method does not change the original array.
+        
         reduce()  => 
                       - 
+                      - 
+                      
         concat()  => The concat() method creates a new array by merging (concatenating) existing arrays.
                       - The concat() method does not change the existing arrays. It always returns a new array.
                       - The concat() method can take any number of array arguments:
