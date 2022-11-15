@@ -224,14 +224,20 @@
              Array ["Ram", "Geeta"]
              Array ["geeksforgeeks"]
              Array [2, 3, 4, "Sheeta"]
-             
-           map()  => 
-          find()  => 
-     findIndex()  =>
+   ###     
+           map()  => The map() creates a new array from calling a function for every array element. 
+                      - It also calls a function once for each element in an array. 
+                      
+          find()  => The find() method returns the first element in the provided array that satisfies the provided testing function. 
+                      - If no values satisfy the testing function, undefined is returned.
+     findIndex()  => 
+                      - 
         filter()  => 
         reduce()  => 
+                      - 
         concat()  => The concat() method creates a new array by merging (concatenating) existing arrays.
-                      -
+                      - The concat() method does not change the existing arrays. It always returns a new array.
+                      - The concat() method can take any number of array arguments:
         
          slice()  => The slice() method slices out a part of an array.
                       -The slice() method creates a new array.
@@ -239,7 +245,7 @@
             
          
         splice()  => The splice() method can be used to add new items to an array.
-                      -
+                     - It can also be used to remove elements from an array.
                     
                      
 
