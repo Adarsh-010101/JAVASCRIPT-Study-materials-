@@ -224,6 +224,19 @@
              Array ["Ram", "Geeta"]
              Array ["geeksforgeeks"]
              Array [2, 3, 4, "Sheeta"]
-
+             
+           map()  => 
+          find()  => 
+     findIndex()  =>
+        filter()  => 
+        reduce()  => 
+        concat()  => 
+        
+         slice()  => The slice() method slices out a piece of an array.
+         
+        splice()  => The splice() method can be used to add new items to an array.
+        
+                    
+                     
 
    
