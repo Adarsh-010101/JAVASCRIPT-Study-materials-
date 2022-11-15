@@ -241,9 +241,10 @@
                       - The filter() method does not execute the function for empty elements.
                       - The filter() method does not change the original array.
         
-        reduce()  => 
-                      - 
-                      - 
+        reduce()  => The reduce() method executes a reducer function for array element.
+                      - The reduce() method returns a single value: the function's accumulated result.
+                      - The reduce() method does not execute the function for empty array elements.
+                      - The reduce() method does not change the original array. 
                       
         concat()  => The concat() method creates a new array by merging (concatenating) existing arrays.
                       - The concat() method does not change the existing arrays. It always returns a new array.
