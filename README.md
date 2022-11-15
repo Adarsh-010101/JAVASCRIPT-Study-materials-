@@ -232,19 +232,19 @@
                       - If no values satisfy the testing function, undefined is returned.
                       
      findIndex()  => The findIndex() method executes a function for each array element.
-                     - The findIndex() method returns the index (position) of the first element that passes a test.
-                     - The findIndex() method returns -1 if no match is found.
-                     - The findIndex() method does not execute the function for empty array elements.
-                     - The findIndex() method does not change the original array.
+                     - This returns the index (position) of the first element that passes a test.
+                     - It returns -1 if no match is found.
+                     - This method does not execute the function for empty array elements.
+                     - It does not change the original array.
             
         filter()  => The filter() method creates a new array filled with elements that pass a test provided by a function.
                       - The filter() method does not execute the function for empty elements.
-                      - The filter() method does not change the original array.
+                      - This method does not change the original array.
         
         reduce()  => The reduce() method executes a reducer function for array element.
-                      - The reduce() method returns a single value: the function's accumulated result.
-                      - The reduce() method does not execute the function for empty array elements.
-                      - The reduce() method does not change the original array. 
+                      - It returns a single value: the function's accumulated result.
+                      - This method does not execute the function for empty array elements.
+                      - This does not change the original array. 
                       
         concat()  => The concat() method creates a new array by merging (concatenating) existing arrays.
                       - The concat() method does not change the existing arrays. It always returns a new array.
