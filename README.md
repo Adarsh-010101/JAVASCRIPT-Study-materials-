@@ -230,12 +230,16 @@
      findIndex()  =>
         filter()  => 
         reduce()  => 
-        concat()  => 
+        concat()  => The concat() method creates a new array by merging (concatenating) existing arrays.
+                      -
         
-         slice()  => The slice() method slices out a piece of an array.
+         slice()  => The slice() method slices out a part of an array.
+                      -The slice() method creates a new array.
+                      -The slice() method does not remove any elements from the source array.
+            
          
         splice()  => The splice() method can be used to add new items to an array.
-        
+                      -
                     
                      
 
