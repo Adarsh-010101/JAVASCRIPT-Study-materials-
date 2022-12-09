@@ -258,6 +258,11 @@
         splice()  => The splice() method can be used to add new items to an array.
                      - It can also be used to remove elements from an array.
                     
+                     - 
+                     -
+                     -
+                     -
+                     -
                      
 
    
